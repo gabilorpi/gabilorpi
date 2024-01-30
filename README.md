@@ -1,6 +1,6 @@
 ## Olá! Eu Sou a Gabriela Santos
 
-- 🌱 Estudando Java
+- 🌱 Estudando: Java
 - 😄 Pronouns: ela/dela
 
 <div align="center">
