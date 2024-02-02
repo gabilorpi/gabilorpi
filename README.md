@@ -21,12 +21,7 @@
  <img align="center" alt="Rafa-CSS" height="40" width="50"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
  <img align="center" alt="Rafa-CSS" height="40" width="50"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-          
- 
-          
-          
-          
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />      
 </div>
  
   ##
